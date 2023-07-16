@@ -29,4 +29,4 @@ After fitting data into these above models,got some roc_auc_Score for each of th
  ['Naive_bayes', 0.6004818919251096],
  ['stacking', 0.8404280311565406]]
  
- created a model for stacked algorithm.
+ As stacking gives the highest roc_auc score, created a model for stacked algorithm.
